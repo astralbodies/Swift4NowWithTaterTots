@@ -8,5 +8,6 @@
         <page name='Functions'/>
         <page name='Structures &amp; Classes'/>
         <page name='Protocols &amp; Extensions'/>
+        <page name='Error Handling'/>
     </pages>
 </playground>
