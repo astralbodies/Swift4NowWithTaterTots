@@ -5,5 +5,8 @@
         <page name='Collections'/>
         <page name='Optionals'/>
         <page name='Flow Control'/>
+        <page name='Functions'/>
+        <page name='Structures &amp; Classes'/>
+        <page name='Protocols &amp; Extensions'/>
     </pages>
 </playground>
