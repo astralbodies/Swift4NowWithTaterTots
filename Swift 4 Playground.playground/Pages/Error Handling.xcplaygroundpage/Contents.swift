@@ -22,5 +22,3 @@ do {
 } catch {
     print(error)
 }
-
-//: [Next](@next)
